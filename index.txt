@@ -1,0 +1,37 @@
+*********************Bookmarks*******************************
+
+weblogic tutorial
+https://www.abclearn.com/courses/weblogic/weblogic-basics/middleware/
+
+
+
+Are my servers running
+https://blogs.oracle.com/fusionmiddlewaresupport/are-my-servers-running-v2
+
+
+
+Spring Boot Actuaters
+https://www.baeldung.com/spring-boot-actuators
+
+
+
+Spring Boot Actuaters(callicoder)
+https://www.callicoder.com/spring-boot-actuator/
+
+
+
+
+Spring Boot Actuaters(HowToDoInJava)
+https://howtodoinjava.com/spring-boot/actuator-endpoints-example/
+
+
+
+crunchify.com
+https://crunchify.com/how-to-get-process-id-and-live-threads-of-a-java-application/
+
+
+How to Get a List of Current Open Processes with Java?
+https://crunchify.com/how-to-get-a-list-of-current-open-processes-with-java/
+
+
+
